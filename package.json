@@ -1,0 +1,28 @@
+{
+  "name": "tweet-tracker",
+  "version": "1.0.0",
+  "description": "A discord bot that tracks a user-set account's tweets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svijay77/tweet-tracker.git"
+  },
+  "author": "sarv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svijay77/tweet-tracker/issues"
+  },
+  "homepage": "https://github.com/svijay77/tweet-tracker#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
